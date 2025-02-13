@@ -1,7 +1,5 @@
 # Hamza Safwan
 
-A dedicated **Python Developer** and **Data Scientist** with a strong foundation in programming, machine learning, and data analysis. I specialize in leveraging cutting-edge tools and frameworks to deliver innovative solutions that make an impact.
-
 
 ## About Me
 
