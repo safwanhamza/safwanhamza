@@ -30,8 +30,7 @@ applications.
 ### [Machine Translation](https://github.com/safwanhamza/Machine-Translation)
 _TensorFlow, Keras, NLP, RNN, Transformers_
 
-- Worked on Machine Translation using RNNs, GRUs, and Encoder-Decoder architectures, achieving above 90%
-accuracy.
+- Worked on Machine Translation using RNNs, GRUs, and Encoder-Decoder architectures.
 - Implemented word embeddings, self-attention mechanisms, and sequence-to-sequence models.
   
 ### [Brain Tumor Detection](https://github.com/safwanhamza/Brain-Tumor-Detection)
