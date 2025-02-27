@@ -1,4 +1,4 @@
-##  Projects  
+##  Final Year Project  
 
 ### [GradeMate](https://github.com/safwanhamza/GradeMate)   
 _LLMs, Langchain, FastAPI, React, Vector & Graph Databases, Docker_
@@ -9,6 +9,8 @@ techniques (Graph RAG, Query Expansion, Merged Retrieval, etc.)
 workflows.
 - Leading a 4-member team, managing the codebase, project execution, and cross-functional coordination to
 deliver a high-impact AI solution.
+
+## Other Projects
 
 ### [LegalEagle](https://github.com/safwanhamza/LegalEagle)
 _Python, LLMs, LangChain, RAG, Django_
