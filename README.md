@@ -1,3 +1,8 @@
+## Technical Skills
+- Languages: Python, SQL, HTML, CSS, JavaScript
+- Tools & Technologies: Django, Flask, React, Node, Tensorflow, Pytorch, LangChain, PowerBI,Airflow, Spark, Git, Docker, AWS
+- Problem-Solving: [LeetCode](https://leetcode.com/hamzasafwan/), [Codeforces](codeforces.com), [AtCoder](atcoder.jp) 
+
 ##  Final Year Project  
 
 ### [GradeMate](https://github.com/safwanhamza/GradeMate)   
@@ -61,6 +66,18 @@ _APIs, PostgreSQL, Python, Airflow, Spark, ETL, AWS_
 - Developed a data engineering workspace for a music streaming service, implementing data pipelines using PostgreSQL, Apache Cassandra, AWS Redshift, Apache Spark, and Apache Airflow.
 - Designed and optimized ETL processes to handle large-scale user activity data, enabling efficient analytics and reporting.
 
+### [LessonLink](https://gitlab.com/hamzasafwan/node-js/-/tree/main/LessonLink?ref_type=heads)
+_JavaScript, NodeJs, ReactJS, Express, MongoDB, Mongoose_
+
+- Developed a real-world Learning management system simulation enabling student and instructor authentication.
+- Implemented class registration, lesson management, and content organization using Node.js, Express, MongoDB, and Mongoose.
+
+### [BlogConnect](https://gitlab.com/hamzasafwan/node-js/-/tree/main/BlogConnect?ref_type=heads)
+_JavaScript, NodeJs, ReactJS, Express, MongoDB, Mongoose_
+
+- Designed and built a dynamic blogging platform with user authentication and CRUD functionality.
+- Integrated media attachments, blog editing, and deletion features using Node.js, Express, MongoDB, and Mongoose.
+
 ### [MedSync](https://github.com/safwanhamza/MedSync)
 _Python, Flask, SQL, REST APIs, React_
 
@@ -76,15 +93,5 @@ _Python, Django, SQL, REST APIs, React_
 ### [LittleLemon](https://github.com/safwanhamza/LittleLemon)
 _Python, Django, SQL, REST APIs, React_
 
-- Created a full-stack food business application, centralizing operations and elevating customer
-experiences.
-- Implemented innovative features for efficient management, streamlining bookings, menus, pricing,
-and delivery services, boosting sales and reducing operational costs.  
-
-
-
-
-### Technical Skills
-- Languages: Python, SQL, HTML, CSS, JavaScript
-- Tools & Technologies: Django, Flask, React, Tensorflow, Pytorch, LangChain, PowerBI,Airflow, Spark, Git, Docker, AWS
-- Problem-Solving: [LeetCode](https://leetcode.com/hamzasafwan/), [Codeforces](codeforces.com), [AtCoder](atcoder.jp) 
+- Created a full-stack food business application, centralizing operations and elevating customer experiences.
+- Implemented innovative features for efficient management, streamlining bookings, menus, pricing and delivery services, boosting sales and reducing operational costs.  
