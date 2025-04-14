@@ -10,7 +10,7 @@ _LLMs, Langchain, FastAPI, React, Vector & Graph Databases, Docker_
 
 - Developed a Generative AI web app for automated exam grading using NLP, LLMs, and advanced RAG
 techniques (Graph RAG, Query Expansion, Merged Retrieval, etc.)
-- Developing a full-stack system with Django (backend) and React (frontend), for seamless AI-driven grading
+- Built a full-stack system with Django (backend) and React (frontend), for seamless AI-driven grading
 workflows.
 - Leading a 4-member team, managing the codebase, project execution, and cross-functional coordination to
 deliver a high-impact AI solution.
