@@ -8,7 +8,7 @@
 ### [GradeMate](https://github.com/safwanhamza/GradeMate)   
 _LLMs, Langchain, FastAPI, React, Vector & Graph Databases, Docker_
 
-- Working on a Generative AI web app for automated exam grading using NLP, LLMs, and advanced RAG
+- Developed a Generative AI web app for automated exam grading using NLP, LLMs, and advanced RAG
 techniques (Graph RAG, Query Expansion, Merged Retrieval, etc.)
 - Developing a full-stack system with Django (backend) and React (frontend), for seamless AI-driven grading
 workflows.
