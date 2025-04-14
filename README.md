@@ -12,7 +12,7 @@ _LLMs, Langchain, FastAPI, React, Vector & Graph Databases, Docker_
 techniques (Graph RAG, Query Expansion, Merged Retrieval, etc.)
 - Built a full-stack system with Django (backend) and React (frontend), for seamless AI-driven grading
 workflows.
-- Leading a 4-member team, managing the codebase, project execution, and cross-functional coordination to
+- Led a 4-member team, managing the codebase, project execution, and cross-functional coordination to
 deliver a high-impact AI solution.
 
 ## Other Projects
