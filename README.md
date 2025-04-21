@@ -51,6 +51,8 @@ _Data Analysis, Business Intelligence, DAX_
 
 - Created Power BI dashboards for data analysis and reporting of different problems.
 - Worked on sales trends, customer churn, and road accident analysis, etc. to improve decision-making.
+
+### [Data Analysis](https://github.com/safwanhamza/Data-Analysis)
   
 ### [Spotify Data Pipeline](https://github.com/safwanhamza/spotify-data-engineering)
 _APIs, Python, Airflow, ETL, AWS_
