@@ -12,8 +12,8 @@ _LLMs, Langchain, FastAPI, React, Vector & Graph Databases, Docker_
 techniques (Graph RAG, Query Expansion, Merged Retrieval, etc.)
 - Built a full-stack system with Django (backend) and React (frontend), for seamless AI-driven grading
 workflows.
-- Led a 4-member team, managing the codebase, project execution, and cross-functional coordination to
-deliver a high-impact AI solution.
+- Led a 4-member team, managed the codebase, project execution, cross-functional coordination and
+delivered a high-impact AI solution.
 
 ## Other Projects
 
@@ -51,8 +51,6 @@ _Data Analysis, Business Intelligence, DAX_
 
 - Created Power BI dashboards for data analysis and reporting of different problems.
 - Worked on sales trends, customer churn, and road accident analysis, etc. to improve decision-making.
-
-### [Data Analysis](https://github.com/safwanhamza/Data-Analysis)
   
 ### [Spotify Data Pipeline](https://github.com/safwanhamza/spotify-data-engineering)
 _APIs, Python, Airflow, ETL, AWS_
