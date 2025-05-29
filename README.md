@@ -6,7 +6,9 @@
 ##  Final Year Project  
 
 ### [GradeMate](https://github.com/safwanhamza/GradeMate)   
-_LLMs, Langchain, FastAPI, React, Vector & Graph Databases, Docker_
+_Python, JavaScript, Django, React,, Deeplearning & Gen AI, LLMs, Langchain, Vector & Graph Databases, Docker_
+
+See more [here](https://safwanhamza.github.io/GradeMate/)
 
 - Developed a Generative AI web app for automated exam grading using NLP, LLMs, and advanced RAG
 techniques (Graph RAG, Query Expansion, Merged Retrieval, etc.)
